@@ -68,6 +68,18 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Web.config" />
+    <Content Include="_Archive\about.html" />
+    <Content Include="_Archive\assets\favicon.ico" />
+    <Content Include="_Archive\blog-home.html" />
+    <Content Include="_Archive\blog-post.html" />
+    <Content Include="_Archive\contact.html" />
+    <Content Include="_Archive\css\styles.css" />
+    <Content Include="_Archive\faq.html" />
+    <Content Include="_Archive\index.html" />
+    <Content Include="_Archive\js\scripts.js" />
+    <Content Include="_Archive\portfolio-item.html" />
+    <Content Include="_Archive\portfolio-overview.html" />
+    <Content Include="_Archive\pricing.html" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
